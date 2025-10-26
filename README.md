@@ -39,9 +39,16 @@ llm models list
 
 **OPEN AI KEY:**
 
+Add one using 'llm keys set openai' or set the OPENAI_API_KEY environment variable
+
+**OR**
+
 export OPENAI_API_KEY="sk-your_api_key_here"
 
 To make that permanent, you can add the export line to your shell config file (~/.bashrc, ~/.zshrc, etc.).
+
+
+
 
 **To Chat with a Model:**
 
