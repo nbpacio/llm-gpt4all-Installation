@@ -37,9 +37,11 @@ llm models list
 [1]: https://docs.gpt4all.io/gpt4all_desktop/models.html?utm_source=chatgpt.com "Download Models - GPT4All Documentation"
 
 
+**OPEN AI KEY:**
 
+export OPENAI_API_KEY="sk-your_api_key_here"
 
-
+To make that permanent, you can add the export line to your shell config file (~/.bashrc, ~/.zshrc, etc.).
 
 **To Chat with a Model:**
 
