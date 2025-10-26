@@ -63,4 +63,4 @@ To remove a downloaded model, delete the .gguf file from ~/.cache/gpt4all
 
 **SET DEFAULT MODEL:**
 
-llm set-default-model "gpt4all-13b-snoozy-q4_0"
+llm models default gpt4all-13b-snoozy-q4_0
